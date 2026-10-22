@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="leader-hub.vercel.app/Movie">
+  <a href="https://leader-hub.vercel.app/Movie">
     <img src="https://github.com/LeaderBotzOfficial/Leader-Hub/blob/main/Screenshot_2026_1002_231116.png" width="300">
   </a>
 </p>
